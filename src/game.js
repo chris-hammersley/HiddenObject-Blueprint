@@ -10,8 +10,8 @@
 
 //Initialise the Kiwi Game. 
 var gameOptions = {
-	width: 768,
-	height: 1024
+	width: 900,
+	height: 563
 }; 
 
 var game = new Kiwi.Game('content', 'HiddenObjectBlueprint', null, gameOptions);
